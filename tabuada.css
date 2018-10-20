@@ -1,0 +1,39 @@
+body {
+  background-color: #ccc;
+  font-family: "Times New Roman", Times, serif;
+}
+#output {
+  border: 1px solid rgb(124, 115, 115);
+  max-width: 200px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+}
+h3 {
+  color: white;
+}
+.container {
+  text-align: center;
+}
+.btn,
+.btn-primary {
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.panel {
+  background-color: rgb(116, 116, 116);
+}
+.panel-footer {
+  font-size: 12px;
+  text-align: center;
+}
+#link-1 {
+  text-decoration: none;
+}
+.img-circle {
+  margin: auto;
+}
+#topo {
+  height: 50px;
+}
